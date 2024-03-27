@@ -1,16 +1,14 @@
-<h1 align="center">Grettings I'm Nicolas Ordoñez</h1>
+<h1 align="center">Grettings I'm Nicolas </h1>
 
 <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying on CampusLand
+- 🔭 I’m currently Searching Work
   
-- 🌱 I’m currently learning React, Node.js & Express
+- 🌱 I’m currently learning React, Node.js, Express, Laravel & Vue
   
 - 👯 I’m looking to collaborate on Proyects 
-  
-- 💬 Ask me about SQL, Node.js ,JavaScript
   
 - ⚡ Fun fact: Sleeping is optional for me sometimes.
 
